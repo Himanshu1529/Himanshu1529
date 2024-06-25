@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Digital Marketing,Google Ads**
 
-- 💬 Ask me about **I'm a well skilled Python developer specializing in web development, data analysis, and machine learning. Proficient in Django, Flask, and TensorFlow, he delivers efficient, high-quality code. His diverse projects include dynamic websites, RESTful APIs, and data pipelines. Passionate about learning, Himanshu participates in coding meetups, hackathons, and open-source projects. Outside of work, he explores new tech innovations and contributes to tech blogs, bringing dedication and enthusiasm to every team.**
+- 💬 Ask me about **I'm a well skilled Python developer specializing in web development, data analysis, and machine learning. Proficient in Django he delivers efficient, high-quality code. **
 
 - 📫 How to reach me **himanshu291003@gmail.com**
 
