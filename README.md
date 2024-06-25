@@ -5,12 +5,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1529&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1529" /> </p>
 
 - 🔭 I’m currently working on [Chaudhary Ranbir Singh Vocational Institute of Paramedical](http://crsvip.in/)
+  
+- 🔮 What do I do? - Develop coding skill enhancement software.
+
+- 👯 I’m looking to collaborate on Machine Learning, Python and Web Development related projects.
 
 - 🌱 I’m currently learning **Digital Marketing,Google Ads**
 
 - 💬 Ask me about **I'm a well skilled Python developer specializing in web development, data analysis, and machine learning. Proficient in Django he delivers efficient, high-quality code. **
 
 - 📫 How to reach me **himanshu291003@gmail.com**
+
+- ⚡ Fun fact: Getting stabbed is very demotivating.
+
+- 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
