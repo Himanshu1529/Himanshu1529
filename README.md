@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Digital Marketing,Google Ads**
 
-- 💬 Ask me about **I'm a well skilled Python developer specializing in web development, data analysis, and machine learning. Proficient in Django he delivers efficient, high-quality code. **
+- 💬 Ask me about - I'm a well skilled Python developer specializing in web development, data analysis, and machine learning. Proficient in Django he delivers efficient, high-quality code.
 
 - 📫 How to reach me **himanshu291003@gmail.com**
 
