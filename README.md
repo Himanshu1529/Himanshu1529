@@ -1,4 +1,5 @@
 ![logo](https://github.com/Himanshu1529/Himanshu1529/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+<meta name="google-site-verification" content="ShzFZ5T_a4ZN3X9NmVm3CADUzk5Sx1LGDTI8YYmAweo" />
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate full stack developer from Sonipat, Haraya</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" 
