@@ -1,35 +1,154 @@
-![logo](https://github.com/Himanshu1529/Himanshu1529/blob/main/himanshu1529.png)
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<h3 align="center">A passionate full stack developer from Sonipat, Harayana</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1529&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1529" /> </p>
+<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
-- 🔭 I’m currently working on [Chaudhary Ranbir Singh Vocational Institute Of Paramedical](https://crsvip.in)
+<div align="center">
 
-- 🌱 I’m currently learning **React js, React Native, Next js**
+<img src="https://raw.githubusercontent.com/Himanshu1529/Himanshu1529/main/himanshu1529.png" width="100%" alt="Himanshu Sharma - Developer Portfolio Banner"/>
 
-- 👨‍💻 All of my projects are available at [https://himanshu1529.github.io/resume](https://himanshu1529.github.io/resume)
+<br/>
 
-- 💬 Ask me about : **I'm a well skilled Python developer specializing in web development. Proficient in Django he delivers efficient, high-quality and clear code.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Software+Developer+%7C+Technical+Trainer;Full+Stack+Web+Developer;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
-- 📫 How to reach me **Himanhu291003@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AprlOoTmd7HSkLkGNXmcVDXz6BipPw?e=GhkNIC](https://1drv.ms/b/s!AprlOoTmd7HSkLkGNXmcVDXz6BipPw?e=GhkNIC)
+<a href="https://github.com/Himanshu1529">
+  <img src="https://komarev.com/ghpvc/?username=himanshu1529&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Himanshu1529?tab=followers">
+  <img src="https://img.shields.io/github/followers/Himanshu1529?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/Himanshu1529?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
 
-- ⚡ Fun fact : **Enjoy Coding and improve skills**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const himanshu = {
+    name: "Himanshu Sharma",
+    location: "Sonipat, Haryana, India",
+    roles: [
+        "Software Developer",
+        "Technical Trainer at INT Computer Institute"
+    ],
+    specialization: [
+        "Full Stack Web Development",
+        "Python & Django",
+        "Laravel & PHP",
+        "Modern JavaScript Applications"
+    ],
+    currentlyLearning: [
+        "React.js",
+        "Next.js",
+        "React Native",
+        "AI Integration in Web Development"
+    ],
+    interests: [
+        "Building Real-World Projects",
+        "Problem Solving",
+        "Teaching & Mentoring",
+        "Open Source"
+    ],
+    motto: "Learn. Build. Teach. Repeat."
+};
+```
+
+- 🔭 Working on modern, responsive and scalable web applications.
+- 👨‍🏫 Working as a **Software Developer and Trainer at INT Computer Institute**.
+- 🌱 Continuously improving my skills in React.js, Next.js, React Native and AI-powered applications.
+- 💻 Experienced in Python, Django, PHP, Laravel, JavaScript and database-driven applications.
+- 🎯 Passionate about writing clean code and turning ideas into practical solutions.
+- 🤝 Open to collaboration, innovative projects and open-source contributions.
+- 📄 **Portfolio:** [Explore My Work](https://himanshu1529.github.io/resume)
+- 📫 **Email:** [Himanshu291003@gmail.com](mailto:Himanshu291003@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend Development
+
 <p align="left">
-<a href="https://linkedin.com/in/himanshu-sharma-177145273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-sharma-177145273" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/18ivlxq4c7/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18ivlxq4c7/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://instagram.com/sharmahimanshu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmahimanshu24" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js"/></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1529&show_icons=true&locale=en&layout=compact" alt="himanshu1529" /></p>
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1529&show_icons=true&locale=en" alt="himanshu1529" /></p>
+### Databases & Development Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1529&" alt="himanshu1529" /></p>
+<p align="left">
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Himanshu1529">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Himanshu1529&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Himanshu's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Himanshu1529">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Himanshu1529&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:Himanshu291003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/himanshu-sharma-177145273">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/sharmahimanshu24">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/Himanshu1529">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💡 "Great developers don't just write code — they solve problems."
+
+**Building today. Teaching tomorrow. Innovating always.** 🚀
+
+</div>
